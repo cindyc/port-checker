@@ -1,0 +1,12 @@
+# Nmap 6.40 scan initiated Thu Oct  3 10:54:44 2013 as: nmap -v -o -A 10.10.121.96
+Nmap scan report for 10.10.121.96
+Host is up (0.0020s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+3128/tcp open  squid-http
+3389/tcp open  ms-wbt-server
+8080/tcp open  http-proxy
+
+Read data files from: /usr/local/bin/../share/nmap
+# Nmap done at Thu Oct  3 10:54:50 2013 -- 1 IP address (1 host up) scanned in 5.98 seconds

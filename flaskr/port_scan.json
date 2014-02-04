@@ -1,0 +1,132 @@
+{
+    "host": {
+        "OS Name": "Microsoft(R) Windows(R) Server 2003, Standard Edition", 
+        "OS Version": "5.2.3790 Service Pack 2 Build 3790", 
+        "Host Name": "WIN2K3_32"
+    }, 
+    "ports": {
+        "135": {
+            "udp": {
+                "status": "open|filtered", 
+                "inbound": {
+                    "4.30.151.152": "check firewall", 
+                    "4.30.151.153": "check firewall", 
+                    "4.30.151.154": "check firewall", 
+                    "4.30.151.160": "check firewall", 
+                    "4.30.151.159": "check firewall", 
+                    "4.30.151.146": "check firewall"
+                }
+            }, 
+            "tcp": {
+                "status": "open", 
+                "inbound": {
+                    "4.30.151.152": "open", 
+                    "4.30.151.153": "open", 
+                    "4.30.151.154": "open", 
+                    "4.30.151.160": "open", 
+                    "4.30.151.159": "open", 
+                    "4.30.151.146": "open"
+                }
+            }
+        }, 
+        "137": {
+            "udp": {
+                "status": "open|filtered", 
+                "inbound": {
+                    "4.30.151.152": "check firewall", 
+                    "4.30.151.153": "check firewall", 
+                    "4.30.151.154": "check firewall", 
+                    "4.30.151.160": "check firewall", 
+                    "4.30.151.159": "check firewall", 
+                    "4.30.151.146": "check firewall"
+                }
+            }, 
+            "tcp": {
+                "status": "closed", 
+                "inbound": {
+                    "4.30.151.152": "open", 
+                    "4.30.151.153": "open", 
+                    "4.30.151.154": "open", 
+                    "4.30.151.160": "open", 
+                    "4.30.151.159": "open", 
+                    "4.30.151.146": "open"
+                }
+            }
+        }, 
+        "138": {
+            "udp": {
+                "status": "open|filtered", 
+                "inbound": {
+                    "4.30.151.152": "check firewall", 
+                    "4.30.151.153": "check firewall", 
+                    "4.30.151.154": "check firewall", 
+                    "4.30.151.160": "check firewall", 
+                    "4.30.151.159": "check firewall", 
+                    "4.30.151.146": "check firewall"
+                }
+            }, 
+            "tcp": {
+                "status": "closed", 
+                "inbound": {
+                    "4.30.151.152": "open", 
+                    "4.30.151.153": "open", 
+                    "4.30.151.154": "open", 
+                    "4.30.151.160": "open", 
+                    "4.30.151.159": "open", 
+                    "4.30.151.146": "open"
+                }
+            }
+        }, 
+        "139": {
+            "udp": {
+                "status": "open|filtered", 
+                "inbound": {
+                    "4.30.151.152": "check firewall", 
+                    "4.30.151.153": "check firewall", 
+                    "4.30.151.154": "check firewall", 
+                    "4.30.151.160": "check firewall", 
+                    "4.30.151.159": "check firewall", 
+                    "4.30.151.146": "check firewall"
+                }
+            }, 
+            "tcp": {
+                "status": "open", 
+                "inbound": {
+                    "4.30.151.152": "open", 
+                    "4.30.151.153": "open", 
+                    "4.30.151.154": "open", 
+                    "4.30.151.160": "open", 
+                    "4.30.151.159": "open", 
+                    "4.30.151.146": "open"
+                }
+            }
+        }, 
+        "445": {
+            "udp": {
+                "status": "open|filtered", 
+                "outbound": {
+                    "smb.rivermeadow.com": "check firewall"
+                }
+            }, 
+            "tcp": {
+                "status": "open", 
+                "outbound": {
+                    "smb.rivermeadow.com": "open"
+                }
+            }
+        }, 
+        "12541": {
+            "tcp": {
+                "status": "closed", 
+                "inbound": {
+                    "4.30.151.152": "open", 
+                    "4.30.151.153": "open", 
+                    "4.30.151.154": "open", 
+                    "4.30.151.160": "open", 
+                    "4.30.151.159": "open", 
+                    "4.30.151.146": "open"
+                }
+            }
+        }
+    }
+}

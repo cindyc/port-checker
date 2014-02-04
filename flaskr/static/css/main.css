@@ -1,0 +1,59 @@
+.alert_wrapper {
+    position: fixed;
+    z-index: 2050;
+    width: 100%;
+    top: 10px;
+    left: 0;
+    text-align: center;
+}
+
+.alert_wrapper_inner {
+    margin: 0 auto;
+    width: 562px;
+}
+
+.alert-inner strong {
+    padding-right: 1em;
+}
+
+.alert {
+    text-align: left;
+}
+
+.alert-danger, .alert-error {
+  background-color: #ea2121;
+  border-color: #ea2121;
+  color: #fff;
+}
+.alert-danger h4, .alert-error h4 {
+  color: #fff;
+}
+
+form .btn-primary {
+    margin-top: 26px;
+}
+
+.icon-ok-sign {
+    color: #42a800;
+}
+
+.icon-minus-sign {
+    color: #ea2221;
+}
+
+.icon-warning-sign {
+    color: #8b98a5;
+}
+
+#scan_results table {
+    margin-bottom: 40px;
+}
+
+#scan_results table:last-child {
+    margin-bottom: 0;
+}
+
+#scan_results table th {
+    color: #808080;
+    font-weight: normal;
+}

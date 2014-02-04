@@ -1,0 +1,258 @@
+
+Host Name:                 WIN2K3_32
+OS Name:                   Microsoft(R) Windows(R) Server 2003, Standard Edition
+OS Version:                5.2.3790 Service Pack 2 Build 3790
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Server
+OS Build Type:             Uniprocessor Free
+Registered Owner:          river
+Registered Organization:   meadow
+Product ID:                69712-108-6115251-44565
+Original Install Date:     9/4/2012, 8:17:15 AM
+System Up Time:            21 Days, 22 Hours, 58 Minutes, 56 Seconds
+System Manufacturer:       VMware, Inc.
+System Model:              VMware Virtual Platform
+System Type:               X86-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: x86 Family 6 Model 45 Stepping 7 GenuineIntel ~2299 Mhz
+BIOS Version:              INTEL  - 6040000
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (GMT-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     1,023 MB
+Available Physical Memory: 747 MB
+Page File: Max Size:       2,470 MB
+Page File: Available:      2,294 MB
+Page File: In Use:         176 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\WIN2K3_32
+Hotfix(s):                 256 Hotfix(s) Installed.
+                           [01]: File 1
+                           [02]: File 1
+                           [03]: File 1
+                           [04]: File 1
+                           [05]: File 1
+                           [06]: File 1
+                           [07]: File 1
+                           [08]: File 1
+                           [09]: File 1
+                           [10]: File 1
+                           [11]: File 1
+                           [12]: File 1
+                           [13]: File 1
+                           [14]: File 1
+                           [15]: File 1
+                           [16]: File 1
+                           [17]: File 1
+                           [18]: File 1
+                           [19]: File 1
+                           [20]: File 1
+                           [21]: File 1
+                           [22]: File 1
+                           [23]: File 1
+                           [24]: File 1
+                           [25]: File 1
+                           [26]: File 1
+                           [27]: File 1
+                           [28]: File 1
+                           [29]: File 1
+                           [30]: File 1
+                           [31]: File 1
+                           [32]: File 1
+                           [33]: File 1
+                           [34]: File 1
+                           [35]: File 1
+                           [36]: File 1
+                           [37]: File 1
+                           [38]: File 1
+                           [39]: File 1
+                           [40]: File 1
+                           [41]: File 1
+                           [42]: File 1
+                           [43]: File 1
+                           [44]: File 1
+                           [45]: File 1
+                           [46]: File 1
+                           [47]: File 1
+                           [48]: File 1
+                           [49]: File 1
+                           [50]: File 1
+                           [51]: File 1
+                           [52]: File 1
+                           [53]: File 1
+                           [54]: File 1
+                           [55]: File 1
+                           [56]: File 1
+                           [57]: File 1
+                           [58]: File 1
+                           [59]: File 1
+                           [60]: File 1
+                           [61]: File 1
+                           [62]: File 1
+                           [63]: File 1
+                           [64]: File 1
+                           [65]: File 1
+                           [66]: File 1
+                           [67]: File 1
+                           [68]: File 1
+                           [69]: File 1
+                           [70]: File 1
+                           [71]: File 1
+                           [72]: File 1
+                           [73]: File 1
+                           [74]: File 1
+                           [75]: File 1
+                           [76]: File 1
+                           [77]: File 1
+                           [78]: File 1
+                           [79]: File 1
+                           [80]: File 1
+                           [81]: File 1
+                           [82]: File 1
+                           [83]: File 1
+                           [84]: File 1
+                           [85]: File 1
+                           [86]: File 1
+                           [87]: File 1
+                           [88]: File 1
+                           [89]: File 1
+                           [90]: File 1
+                           [91]: File 1
+                           [92]: File 1
+                           [93]: File 1
+                           [94]: File 1
+                           [95]: File 1
+                           [96]: File 1
+                           [97]: File 1
+                           [98]: File 1
+                           [99]: File 1
+                           [100]: File 1
+                           [101]: File 1
+                           [102]: File 1
+                           [103]: File 1
+                           [104]: File 1
+                           [105]: File 1
+                           [106]: File 1
+                           [107]: File 1
+                           [108]: File 1
+                           [109]: File 1
+                           [110]: File 1
+                           [111]: File 1
+                           [112]: File 1
+                           [113]: File 1
+                           [114]: File 1
+                           [115]: File 1
+                           [116]: File 1
+                           [117]: File 1
+                           [118]: File 1
+                           [119]: File 1
+                           [120]: File 1
+                           [121]: File 1
+                           [122]: File 1
+                           [123]: File 1
+                           [124]: File 1
+                           [125]: Q147222
+                           [126]: KB2604078 - QFE
+                           [127]: KB2656358 - QFE
+                           [128]: KB2656376-v2 - QFE
+                           [129]: KB933854 - QFE
+                           [130]: KB979907 - QFE
+                           [131]: KB975558_WM8
+                           [132]: KB925398_WMP64
+                           [133]: KB2618444-IE8 - Update
+                           [134]: KB2722913-IE8 - Update
+                           [135]: KB982381-IE8 - Update
+                           [136]: KB982632-IE8 - Update
+                           [137]: KB2564958 - Update
+                           [138]: KB2115168 - Update
+                           [139]: KB2229593 - Update
+                           [140]: KB2296011 - Update
+                           [141]: KB2347290 - Update
+                           [142]: KB2360937 - Update
+                           [143]: KB2378111 - Update
+                           [144]: KB2387149 - Update
+                           [145]: KB2393802 - Update
+                           [146]: KB2419635 - Update
+                           [147]: KB2423089 - Update
+                           [148]: KB2440591 - Update
+                           [149]: KB2443105 - Update
+                           [150]: KB2467659 - Update
+                           [151]: KB2476490 - Update
+                           [152]: KB2478960 - Update
+                           [153]: KB2478971 - Update
+                           [154]: KB2483185 - Update
+                           [155]: KB2485663 - Update
+                           [156]: KB2506212 - Update
+                           [157]: KB2507618 - Update
+                           [158]: KB2507938 - Update
+                           [159]: KB2508429 - Update
+                           [160]: KB2509553 - Update
+                           [161]: KB2510587 - Update
+                           [162]: KB2535512 - Update
+                           [163]: KB2536276-v2 - Update
+                           [164]: KB2544521 - Update
+                           [165]: KB2544893-v2 - Update
+                           [166]: KB2566454 - Update
+                           [167]: KB2570947 - Update
+                           [168]: KB2584146 - Update
+                           [169]: KB2598479 - Update
+                           [170]: KB2603381 - Update
+                           [171]: KB2604078 - Update
+                           [172]: KB2618451 - Update
+                           [173]: KB2620712 - Update
+                           [174]: KB2624667 - Update
+                           [175]: KB2631813 - Update
+                           [176]: KB2633952-v2 - Update
+                           [177]: KB2638806 - Update
+                           [178]: KB2644615 - Update
+                           [179]: KB2645640 - Update
+                           [180]: KB2646524 - Update
+                           [181]: KB2653956 - Update
+                           [182]: KB2655992 - Update
+                           [183]: KB2656358 - Update
+                           [184]: KB2656376-v2 - Update
+                           [185]: KB2659262 - Update
+                           [186]: KB2676562 - Update
+                           [187]: KB2685939 - Update
+                           [188]: KB2686509 - Update
+                           [189]: KB2691442 - Update
+                           [190]: KB2695962 - Update
+                           [191]: KB2698365 - Update
+                           [192]: KB2705219 - Update
+                           [193]: KB2707511 - Update
+                           [194]: KB2712808 - Update
+                           [195]: KB2718704 - Update
+                           [196]: KB2719985 - Update
+                           [197]: KB2722913 - Update
+                           [198]: KB2731847 - Update
+                           [199]: KB923561 - Update
+                           [200]: KB925902-v2 - Update
+                           [201]: KB926122 - Update
+                           [202]: KB927891 - Update
+                           [203]: KB929123 - Update
+                           [204]: KB932168 - Update
+                           [205]: KB933854 - Update
+                           [206]: KB936357 - Update
+                           [207]: KB941569 - Update
+                           [208]: KB944653 - Update
+                           [209]: KB946026 - Update
+                           [210]: KB948496 - Update
+                           [211]: KB950762 - Update
+                           [212]: KB950974 - Update
+                           [213]: KB952004 - Update
+                           [214]: KB952069 - Update
+                           [215]: KB952954 - Update
+                           [216]: KB954155 - Update
+                           [217]: KB956572 - Update
+                           [218]: KB956802 - Update
+                           [219]: KB956844
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) PRO/1000 MT Network Connection
+                                 Connection Name: Local Area Connection
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 10.10.121.96

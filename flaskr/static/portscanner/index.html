@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>RiverMeadow Port Scanner</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="./css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <link href="./css/font-awesome.min.css" rel="stylesheet" media="screen">
+        <link href="./css/main.css" rel="stylesheet" media="screen">
+    </head>
+    <body id="port_scanner">
+        <div class="container">
+            <div class="page-header">
+                <h1>RiverMeadow Port Scanner</h1>
+            </div>
+            <div class="well well-lg">
+                <form id="source_server_info" class="form-inline" role="form" method="GET" action="#">
+                    <div class="form-group">
+                        <label for="source_ip_address">IP Address</label>
+                        <input type="text" class="form-control" id="source_ip_address" required="required" />
+                    </div>
+                    <div class="form-group">
+                        <label for="source_username">Username</label>
+                        <input type="text" class="form-control" id="source_username" required="required" />
+                    </div>
+                    <div class="form-group">
+                        <label for="source_password">Password</label>
+                        <input type="password" class="form-control" id="source_password" required="required" />
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-lg" id="submit_form">Scan Ports&nbsp;<i class="icon-arrow-right"></i></button>
+                </form>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">Port Status</div>
+                <div class="panel-body" id="scan_results"></div>
+            </div>
+        </div>
+        <script src="./js/jquery-2.0.3.min.js"></script>
+        <script src="./js/bootstrap.min.js"></script>
+        <script src="./js/main.js"></script>
+        <script src="./js/port_scanner.js"></script>
+    </body>
+</html>

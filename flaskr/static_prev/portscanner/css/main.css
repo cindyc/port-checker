@@ -1,0 +1,34 @@
+.alert_wrapper {
+    position: fixed;
+    z-index: 2050;
+    width: 100%;
+    top: 10px;
+    left: 0;
+    text-align: center;
+}
+
+.alert_wrapper_inner {
+    margin: 0 auto;
+    width: 562px;
+}
+
+.alert-inner strong {
+    padding-right: 1em;
+}
+
+.alert {
+    text-align: left;
+}
+
+.alert-danger, .alert-error {
+  background-color: #ea2121;
+  border-color: #ea2121;
+  color: #fff;
+}
+.alert-danger h4, .alert-error h4 {
+  color: #fff;
+}
+
+form .btn-primary {
+    margin-top: 26px;
+}
